@@ -1,3 +1,4 @@
+![logo](https://github.com/MuhammadAfzal-Balghari/MuhammadAfzal-Balghari/blob/main/github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Afzal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
